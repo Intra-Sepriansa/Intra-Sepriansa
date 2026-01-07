@@ -52,3 +52,7 @@
 <img src="https://raw.githubusercontent.com/Intra-Sepriansa/Intra-Sepriansa/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated footer" />
+</div>

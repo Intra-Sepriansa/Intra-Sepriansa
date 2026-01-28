@@ -30,21 +30,21 @@ const intraSepriansa = {
     location: "Indonesia 🇮🇩",
     education: "Computer Science Student",
     
-    code: ["TypeScript", "JavaScript", "Python", "PHP", "C#"],
+    code: ["TypeScript", "JavaScript", "Python", "PHP"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue.js"],
+            js: ["React", "Next.js"],
             css: ["Tailwind", "Bootstrap", "Material-UI"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
             php: ["Laravel"],
-            python: ["FastAPI", "Django"]
+            python: ["FastAPI"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"],
+        databases: ["MySQL"],
         ai_ml: ["TensorFlow", "PyTorch", "YOLO", "OpenCV"],
-        devOps: ["Docker", "Git", "GitHub Actions", "Vercel"],
-        tools: ["VS Code", "Postman", "Figma", "Jira"]
+        devOps: ["Git", "Vercel"],
+        tools: ["VS Code", "Postman"]
     },
     
     currentFocus: "Building AI-powered applications",
@@ -70,7 +70,6 @@ const intraSepriansa = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -105,7 +104,6 @@ const intraSepriansa = {
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 

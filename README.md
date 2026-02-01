@@ -221,7 +221,6 @@ If you like my work, consider buying me a coffee! ☕
 - ✅ Master TypeScript & Advanced React Patterns
 - ✅ Build 5 Full-Stack Projects
 - 🔄 Contribute to 10 Open Source Projects
-- 🔄 Learn Rust & WebAssembly
 - 📝 Write 20 Technical Blog Posts
 - 🎓 Get AWS Certification
 - 🚀 Launch a SaaS Product

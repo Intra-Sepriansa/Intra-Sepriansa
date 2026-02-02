@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ultra Advanced Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,20,24,30&height=280&section=header&text=INTRA%20SEPRIANSA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20🤖%20AI%20Engineer%20%7C%20✨%20Tech%20Innovator%20%7C%20🎨%20UI/UX%20Enthusiast&descSize=20&descAlignY=55&descAlign=50" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,11,12,20,24,30&height=280&section=header&text=INTRA%20SEPRIANSA&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20✨%20Tech%20Innovator%20%7C%20🎨%20UI/UX%20Enthusiast&descSize=20&descAlignY=55&descAlign=50" alt="header"/>
 
 <!-- Animated Badges Row -->
 <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-00D9FF?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" alt="Focus"/>

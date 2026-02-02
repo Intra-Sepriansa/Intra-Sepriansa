@@ -214,20 +214,6 @@ If you like my work, consider buying me a coffee! ☕
 
 ---
 
-<div align="center">
-
-### 🎯 2024 Goals
-
-- ✅ Master TypeScript & Advanced React Patterns
-- ✅ Build 5 Full-Stack Projects
-- 🔄 Contribute to 10 Open Source Projects
-- 📝 Write 20 Technical Blog Posts
-- 🎓 Get AWS Certification
-- 🚀 Launch a SaaS Product
-
-</div>
-
----
 
 <div align="center">
 
